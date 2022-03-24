@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rentpe",
+    "slug": "rentpe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
