@@ -1,0 +1,47 @@
+[
+    {
+        "city":"bhopal",
+         "state":"mp",
+         "price":3000,
+         "type":"1 BHK",
+         "mobileno":"121212",
+         "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2021%2F09%2F17%2Fexterior-house-amidst-trees-B-25f1YeaKTBoqHHXymzSw.jpg"
+         
+    },
+    {
+        "city":"Indore",
+         "state":"mp",
+         "price":6000,
+         "type":"2 BHK",
+         "mobileno":"121212",
+         "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2021%2F09%2F17%2Fexterior-house-amidst-trees-B-25f1YeaKTBoqHHXymzSw.jpg"
+         
+    },
+    {
+        "city":"Nagpure",
+         "state":"mh",
+         "price":3000,
+         "type":"1 BHK",
+         "mobileno":"121212",
+         "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2021%2F09%2F17%2Fexterior-house-amidst-trees-B-25f1YeaKTBoqHHXymzSw.jpg"
+         
+    },
+    {
+        "city":"bhopal",
+         "state":"mp",
+         "price":3000,
+         "type":"1 BHK",
+         "mobileno":"121212",
+         "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2021%2F09%2F17%2Fexterior-house-amidst-trees-B-25f1YeaKTBoqHHXymzSw.jpg"
+         
+    }
+    ,  {
+        "city":"bhopal",
+         "state":"mp",
+         "price":3000,
+         "type":"1 BHK",
+         "mobileno":"121212",
+         "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2021%2F09%2F17%2Fexterior-house-amidst-trees-B-25f1YeaKTBoqHHXymzSw.jpg"
+         
+    }
+]
